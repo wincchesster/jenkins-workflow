@@ -1,0 +1,7 @@
+Started by user [8mha:////4OYCtZK+UVgqgLw0KmuLPMvwSdDZaeYp4OtONoyU/xtpAAAAmh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzREgZ+/dLi1CJ9oILs4sS8lCIATxSlkMQAAAA=[0mOleksandr Chaikovskyi
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/test_1
+[test_1] $ /bin/bash /tmp/jenkins11723184824240317110.sh
+Hello World!
+Hello Again!
+Finished: SUCCESS

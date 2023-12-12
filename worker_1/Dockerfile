@@ -5,7 +5,7 @@ RUN apt-get update && apt-get install -y \
     mysql-server \
     python3-pip
 
-RUN pip3 install pymysql
+RUN pip3 install pymysql cryptography==3.4.8
 
 
 RUN service mysql start \
